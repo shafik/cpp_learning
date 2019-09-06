@@ -2,8 +2,6 @@
 
 Some variation of the "where to get started with learning C++" or "What are the resources for getting started in C++" has come up often enough on Twitter that I figured it was about time to turn it into a more permenant resource.
 
-I am going to do this in two parts. One is this blog post and second I will post this up as a github repository so that the list can grow and update as needed.
-
 First, use [cppreference](https://en.cppreference.com/w/) as your goto C++ reference. It is not a tutorial but it is 
 relatively complete and is kept up to date. It will note the difference between various versions of C++. It has a [compiler support section](https://en.cppreference.com/w/cpp/compiler_support), so you can figure out which 
 versions support which features.
