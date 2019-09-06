@@ -31,8 +31,9 @@ Know what [undefined behavior is](https://en.cppreference.com/w/cpp/language/ub)
 
 There are many books to choose from. For a quick tour of modern C++ 
 [“A Tour of C++”](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/) is a quick and light introduction. For more in depth coverage of 
-C++ these two books would be a good bet ["C++17 in Detail"](https://leanpub.com/cpp17indetail) and 
+C++ ["The C++ Programming Language, 4th Edition"](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) is a good choice. For up to date C++17 coverage either of these two books would be a good bet ["C++17 in Detail"](https://leanpub.com/cpp17indetail) and
 ["C++17 - The Complete Guide"](http://www.cppstd17.com/). 
+
 
 ["Effective Modern C++"](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996) and the previous version ["Effective C++"](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876) are important 
 books to read to understand best practices although they are becoming a little dated.
