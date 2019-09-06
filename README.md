@@ -43,4 +43,4 @@ There are some more specialized books that are worth checking out further along 
 
 Much later on in your journey reading
 [The Design and Evolution of C++](https://www.amazon.com/Design-Evolution-C-Bjarne-Stroustrup/dp/0201543303/) is essential
-to understanding where C++ came from and why it is the way it is today. A lot of tough trade-off were made along the way and understanding the choices and why there were made can help you to appreciate the langauge despite its warts. It can also help you to appreciate what limitations modern langauge don't have and what advantages that has.
+to understanding where C++ came from and why it is the way it is today. A lot of tough trade-off were made along the way and understanding the choices and why there were made can help you to appreciate the langauge despite its warts. 
