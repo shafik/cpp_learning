@@ -44,3 +44,5 @@ There are some more specialized books that are worth checking out further along 
 Much later on in your journey reading
 [The Design and Evolution of C++](https://www.amazon.com/Design-Evolution-C-Bjarne-Stroustrup/dp/0201543303/) is essential
 to understanding where C++ came from and why it is the way it is today. A lot of tough trade-off were made along the way and understanding the choices and why there were made can help you to appreciate the langauge despite its warts. 
+
+If you are going to be working in C++ long-term you should become familair with the C++ standard. If you want to refer to standard we have [link-able versions online Latest C++ draft](http://eel.is/c++draft/). C++11/C++14/C++17 versions of the draft can [be found here](https://github.com/timsong-cpp/cppwp). Part of the standard process is proposals, for new proposals we can use [wg21.link](https://wg21.link/) for example [https://wg21.link/P0476 ](https://wg21.link/P0476 ).
